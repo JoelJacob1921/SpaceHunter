@@ -1,48 +1,34 @@
 # Space Hunter
 
-A 2D arcade space shooter built in Java featuring wave-based enemy progression, boss battles, power-ups, weapon upgrades, and persistent high score saving.
+A fast-paced 2D arcade space shooter built in Java.
 
-## Overview
+## Play the Game
 
-Space Hunter is a Java game inspired by classic arcade shooters. Players battle increasingly difficult waves of alien enemies, collect power-ups, earn coins, and upgrade their ship to survive against powerful boss encounters.
-
-Developed as a personal project building upon concepts learned in AP Computer Science A, this game demonstrates object-oriented programming, event-driven design, collision detection, game state management, and persistent data storage.
+Play and download on Itch.io:
+https://joeljacob.itch.io/space-hunter
 
 ## Features
 
-* Wave-based enemy progression
-* Multiple enemy types with unique movement patterns
-* Boss battles
-* Upgrade shop system
-* Power-ups and weapon upgrades
-* Coin collection and progression mechanics
-* Persistent high score saving
-* Sound effects and custom graphics
-* Multiple game states (Menu, Gameplay, Shop, Victory, Game Over)
-
-## Technologies Used
-
-* Java
-* Java Swing
-* Object-Oriented Programming
-* File I/O
-* Event Handling
+- Wave-based enemy progression
+- Boss battles
+- Weapon upgrades and power-ups
+- Spread shot and piercing attacks
+- Persistent high score saving
+- Custom graphics and sound effects
 
 ## Controls
 
-* Move Mouse: Control the ship
-* Left Click: Fire weapon
-* Menu Buttons: Navigate game screens
+- Move Mouse — Control your ship
+- Left Click — Fire weapon
+
+## Requirements
+
+- Java 21 or newer
 
 ## Screenshots
 
 (Add screenshots here)
 
-## Download
+## Developer
 
-Download the latest version from the Releases section of this repository.
-
-## Author
-
-Joel Jacob
-
+Created by Joel Jacob.
